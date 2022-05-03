@@ -18,6 +18,6 @@ public class GameClick : MonoBehaviour
     }
 
     public void PlayGame() {  
-        SceneManager.LoadScene("racingScene");  
+        SceneManager.LoadScene("Race");  
     } 
 }
